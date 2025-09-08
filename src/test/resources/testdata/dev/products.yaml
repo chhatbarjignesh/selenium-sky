@@ -1,0 +1,13 @@
+productTypes:
+  - type: electronics
+    products:
+      - name: Laptop
+        price: 1200.50
+      - name: Phone
+        price: 800.00
+  - type: furniture
+    products:
+      - name: Chair
+        price: 150.00
+      - name: Table
+        price: 300.00

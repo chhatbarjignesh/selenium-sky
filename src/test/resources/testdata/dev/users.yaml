@@ -1,0 +1,14 @@
+userTypes:
+  - type: admin
+    users:
+      - username: alice
+        password: alice123
+        role: admin
+      - username: bob
+        password: bob123
+        role: admin
+  - type: user
+    users:
+      - username: charlie
+        password: charlie123
+        role: user
